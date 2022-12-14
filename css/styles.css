@@ -1,0 +1,10 @@
+.dataDisplay {
+  display: flex;
+  flex-direction: row;
+}
+p {
+  margin: 30;
+}
+body {
+  background-color: lightskyblue;
+}
